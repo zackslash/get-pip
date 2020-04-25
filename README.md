@@ -1,3 +1,3 @@
 # get-pip
 
-Clone of https://bootstrap.pypa.io/get-pip.py
+Installable copy of pip (version 20.0.2) cloned from https://bootstrap.pypa.io/get-pip.py
